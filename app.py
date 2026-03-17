@@ -10,3 +10,6 @@ def add():
 
 def sub():
   print("subtraction.........")
+
+def hello():
+  print("hello world")
